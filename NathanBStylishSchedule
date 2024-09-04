@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+   <html lang="en-US">
+  <style>
+  table {
+    width:500px;
+    margin:auto;
+    background-color:#555577;
+    color:#FFFFFF;
+  }
+  td {
+    padding:10px;
+  }
+  tr.lighter {
+    font-size:20px;
+    background-color:#8888AA;
+  }
+    td {
+    border:solid 2px #000000;
+    background-color:#8888AA;
+    color:#FFFFFF;
+    padding:10px;
+  }
+   .poop {
+    color:#999999;
+  }
+  .today {
+   color:#FF0000
+  }
+</style>
+
+<table>
+  <tr class="poop">
+    <td id="today">Class assigment 9/04/24</td>
+    <td>Class quiz 9/05/24</td>
+    <td>reading 9/05/24</td>
+    <td>Doctor appointment at 5m</td>
+  </tr>
+  <tr class="lighter">
+    <td id="today">Class exam 9/04/24/td>
+    <td>Wash dog crate 9/06/24</td>
+    <td>Sleep 9/07/24</td>
+    <td>
+  </tr>
+</table>
+</html>
